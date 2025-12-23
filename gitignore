@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+venv/
+.env
+.env.local
+.venv/
+dist/
+build/
+.eggs/
+*.egg-info/
+
+# Docker
+docker-compose.override.yml
+*.log
+
+# Node / frontend
+node_modules/
+.next/
+npm-debug.log
+yarn-error.log
+pnpm-lock.yaml
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
+
+# OS
+Thumbs.db
