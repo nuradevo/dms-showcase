@@ -1,4 +1,4 @@
-# DMS Showcase — продвинутая версия (FastAPI + PostgreSQL + Alembic + JWT + Next.js)
+# DMS Showcase —  FastAPI + PostgreSQL + Alembic + JWT + Next.js
 
 Кратко:
 - FastAPI backend с асинхронным SQLAlchemy, Alembic миграциями и JWT-аутентификацией.
