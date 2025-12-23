@@ -29,7 +29,7 @@ Frontend (TypeScript)
 ---
 
 ## Графическая диаграмма (PNG)
-
+https://github.com/nuradevo/dms-showcase/blob/631469ee804ee16482e0651c8de6832ddf6fe8ec/TypeScript%20Frontend%20to-2025-12-23-085344.svg 
 ---
 
 ## Примечание
